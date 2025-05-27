@@ -29,6 +29,7 @@ while programa:
 
     palabras_distintas = set(palabras)
     print(f"El número de parabras distintas es: {len(palabras_distintas)}")
+    print(palabras_distintas)
     letras_distintas = set(texto)
     print(f"El número de letras distintas es: {len(letras_distintas)}")
 
